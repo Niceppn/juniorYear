@@ -1,7 +1,7 @@
 const ACCESS_TOKEN = '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'; // ใส่ GitHub Token ของคุณ
 const REPO_OWNER = 'Niceppn'; // ชื่อผู้ใช้ GitHub ของคุณ
 const REPO_NAME = 'juniorYear'; // ชื่อ repository ของคุณ
-const BRANCH = 'main'; // ชื่อ branch ที่ต้องการอัปโหลดไฟล์
+const BRANCH = 'branch1'; // ชื่อ branch ที่ต้องการอัปโหลดไฟล์
 const FOLDER_PATH = 'assignment'; // โฟลเดอร์ที่ต้องการจัดเก็บไฟล์ใน repository
 
 async function uploadFiles() {
